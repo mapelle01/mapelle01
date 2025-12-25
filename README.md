@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Marc Pérez Lleixà
 
-<!--
-**mapelle01/mapelle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Python · SQL · Power BI · Big Data & Machine Learning**
 
-Here are some ideas to get you started:
+I'm a Data Scientist specialized in transforming complex datasets into clear, actionable insights.  
+Graduate in **Digital Technology & Multimedia (UPV)** and currently completing a **Master’s in Data Science, Big Data & Business Analytics (UCM)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems with data, building analytical models, and creating dashboards that help companies make better decisions.
+
+---
+
+## 🚀 Tech Stack
+
+### 🔧 Languages & Tools
+- **Python** (Pandas, NumPy, Scikit-learn)
+- **SQL** (MySQL, SQL Server)
+- **Git & GitHub**
+- **Power BI**, Tableau
+- **Machine Learning** (Regression, Classification, Clustering)
+- **Big Data** (Spark, Hadoop)
+- **Statistics & Predictive Modeling**
+- **Advanced Excel**
+- **APIs, ETL & Data Cleaning**
+
+---
+
+## 📈 What I'm currently learning
+- Deep Learning (**TensorFlow & PyTorch**)  
+- Advanced Big Data systems (**Spark Streaming, Google BigQuery**)  
+- Model deployment & **MLOps basics**
+- Web Scraping (**BeautifulSoup, Selenium**)
+  
+---
+
+## 🤝 Let's connect!
+- **LinkedIn**: https://www.linkedin.com/in/marc-p-51b867297/
+- **Email**: marcperezlleixa@gmail.com
+- **Portfolio**: coming soon
+
+---
+
+⭐ *If you like my work, feel free to star my repositories!*
